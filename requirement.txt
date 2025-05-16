@@ -1,0 +1,13 @@
+Flask
+flask-cors
+python-docx
+PyPDF2
+transformers
+torch
+indic-nlp-library
+streamlit
+requests
+python-docx
+PyPDF2
+transformers
+sentencepiece
